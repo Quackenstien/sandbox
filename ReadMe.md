@@ -4,7 +4,9 @@
 
 This a quick guide on the inner workings of Vibe. Vibe is an interactive webpage that has been designed to aid in stress reduction.
 
-## Mobile and desktop views
+## Visual Style Guide
+
+![colpal](images/color-palette-292.png)
 
 ![browserviews](images/image.png)
 
