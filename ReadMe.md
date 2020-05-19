@@ -6,7 +6,11 @@ This a quick guide on the inner workings of Vibe. Vibe is an interactive webpage
 
 ## Visual Style Guide
 
+Color pallette
+
 ![colpal](images/color-palette-292.png)
+
+Mobile and Browser views
 
 ![browserviews](images/image.png)
 
