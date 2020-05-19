@@ -4,7 +4,7 @@ This a quick guide on the inner workings of Vibe. Vibe is an interactive webpage
 
 ## Mobile and desktop views
 
-![browserviews](<(https://github.com/Quackenstien/sandbox/blob/master/images/image.png)>)
+![browserviews](images/image.png)
 
 ## URL
 
