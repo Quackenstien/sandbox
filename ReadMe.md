@@ -2,6 +2,10 @@
 
 This a quick guide on the inner workings of Vibe. Vibe is an interactive webpage that has been designed to aid in stress reduction.
 
+## Mobile and desktop views
+
+![browserviews](<(https://quackenstien.github.com/images/image.png)>)
+
 ## URL
 
 URL goes here
