@@ -1,3 +1,5 @@
+> “Muddy water is best cleared by leaving it alone.” – Alan Watts.
+
 # Vibe Guide
 
 This a quick guide on the inner workings of Vibe. Vibe is an interactive webpage that has been designed to aid in stress reduction.
